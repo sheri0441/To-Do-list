@@ -19,3 +19,6 @@ h1{
     font-weight: 900;
     text-align: center;
 }
+.strike-through{
+    text-decoration: line-through;
+}
